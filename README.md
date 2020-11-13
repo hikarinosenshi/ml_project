@@ -27,3 +27,4 @@ The construction company is looking to buy old houses to remodel them. They need
 
 - Feature engineering (If it is a Descriptive model then we may include some columns that we would not include if the goal is a Predictive model.) (Either by adding brand new features from outside sources, Or adding new features derived from the original features, Or using such new features to replace the original features,  Eliminate any unnecessary features. (Combine number of bedrooms and number of bathrooms)
 - Should we ignore categorical features? (dumminfication) (for data analysis use pandas, for better performance us sklearn)
+
