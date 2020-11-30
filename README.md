@@ -1,6 +1,4 @@
-# ml_project
 <h1>Machine Learning Project<h1>
-
 <h4>Housing Market Consultants</h4>
 We have been hired by a construction company to research which ‘cosmetic’ features add the most value to a house.
 The construction company is looking to buy old houses to remodel them. They need to understand which features will add the most value to the house.
