@@ -1,3 +1,4 @@
+# Log 
 11/13/2020: Cloned repo to local folder. 
 
 11/21/2020: Added Ariels Evaluations to my folder. 
