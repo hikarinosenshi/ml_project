@@ -1,16 +1,15 @@
 # ml_project
-Machine Learning Project
+<h1>Machine Learning Project<h1>
 
-Housing Market Consultants
+<h4>Housing Market Consultants</h4>
 We have been hired by a construction company to research which ‘cosmetic’ features add the most value to a house.
 The construction company is looking to buy old houses to remodel them. They need to understand which features will add the most value to the house.
 
+<h4>File locations</h4>
+final/Data Cleasing.ipynb -> notebook with all the steps taken to clean the original data
+final/Feature Selection.ipynb -> notebook with all the steps taken to select the features for the descriptive model
 
-Location: final/
-    Data Cleasing.ipynb -> notebook with all the steps taken to clean the original data
-    Feature Selection.ipynb -> notebook with all the steps taken to select the features for the descriptive model
-
-Location: final/IT-KASA Presentation.ppt -> Final presentation of the project
+final/IT-KASA Presentation.ppt -> Final presentation of the project
 * Introduction
   * Team Members
   * Role we are playing
